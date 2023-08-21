@@ -79,20 +79,6 @@
 ||email.reyescolimited.com^$dnsrewrite=NOERROR;A;172.16.0.55
 ||list.reyescolimited.com^$dnsrewrite=NOERROR;A;172.16.0.52
 #
-#Section used for other hostnames IPV4
-#
-||proxy.bz^$dnsrewrite=NOERROR;A;172.16.0.101
-||hp.bz^$dnsrewrite=NOERROR;A;192.168.3.253
-||amydigi.bz^$dnsrewrite=NOERROR;A;179.42.236.227
-||diamilidigi.bz^$dnsrewrite=NOERROR;CNAME;bee70b068362.sn.mynetname.net
-#
-#Section used for other hostnames IPV6
-#
-||henry.ipv6^$dnsrewrite=NOERROR;AAAA;fd00:824:2273:a::4
-||dns1.ipv6^$dnsrewrite=NOERROR;AAAA;fd00:824:2273:a::57
-||dns2.ipv6^$dnsrewrite=NOERROR;AAAA;fd00:824:2273:a::66
-||firewall.ipv6^$dnsrewrite=NOERROR;AAAA;fd00:824:2273:a::f
-#
 #Custom Unblocking Section
 #
 @@||storjnet.info^
