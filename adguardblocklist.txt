@@ -104,3 +104,4 @@
 ||symcb.com^
 ||symcd.com^
 ||tuyaeu.com^
+||mcafee.com^
