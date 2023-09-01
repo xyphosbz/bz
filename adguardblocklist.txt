@@ -71,6 +71,7 @@
 ||oracle.hostbelize.com^$dnsrewrite=NOERROR;A;129.153.145.111
 ||rd1.hostbelize.com^$dnsrewrite=NOERROR;A;23.95.90.226
 ||rd2.hostbelize.com^$dnsrewrite=NOERROR;A;193.25.214.106
+||ev.hostbelize.com^$dnsrewrite=NOERROR;A;128.254.207.195
 #
 #Section used for reyescolimited domains
 #
