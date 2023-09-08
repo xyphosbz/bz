@@ -74,6 +74,7 @@
 ||rd2.hostbelize.com^$dnsrewrite=NOERROR;A;193.25.214.106
 ||ev.hostbelize.com^$dnsrewrite=NOERROR;A;128.254.207.195
 ||clara.hostbelize.com^$dnsrewrite=NOERROR;A;192.168.90.13
+||reolink.hostbelize.com^$dnsrewrite=NOERROR;A;192.168.240.50
 #
 #Section used for reyescolimited domains
 #
