@@ -113,6 +113,14 @@
 @@|www.yueimg.com|
 @@||hacs.xyz^
 @@||teamos.xyz^
+@@|outlook.live.com|
+@@|login.yahoo.com|
+@@|ipinfo.io|
+@@|youtu.be|
+@@|cdn.jsdelivr.net|
+@@|secure.livechatinc.com|
+@@|www.voidtools.com|
+@@|voidtools.com|
 #
 #Custom blocking Section
 #
