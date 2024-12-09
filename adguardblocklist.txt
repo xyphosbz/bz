@@ -89,8 +89,6 @@
 ||mine.hostbelize.com^$dnsrewrite=NOERROR;A;172.16.0.60
 ||office.hostbelize.com^$dnsrewrite=NOERROR;CNAME;reyescolimited.com
 ||homeassistant.hostbelize.com^$dnsrewrite=NOERROR;CNAME;reyescolimited.com
-|homeassistant.hostbelize.com^$dnsrewrite=192.168.90.13,client=172.16.0.1/27|192.168.3.0/24
-||view.hostbelize.com^$dnsrewrite=NOERROR;CNAME;reyescolimited.com
 #
 #Section used for reyescolimited domains
 #
