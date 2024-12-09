@@ -72,6 +72,7 @@
 #
 #Section used for hostbelize domains
 #
+|homeassistant.hostbelize.com^$dnsrewrite=192.168.90.13,client=172.16.0.1/27|192.168.3.0/24
 ||mon.hostbelize.com^$dnsrewrite=NOERROR;A;172.16.0.56
 ||oracle.hostbelize.com^$dnsrewrite=NOERROR;A;129.153.145.111
 ||ev.hostbelize.com^$dnsrewrite=NOERROR;A;128.254.207.195
