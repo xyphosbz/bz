@@ -122,6 +122,8 @@
 @@|secure.livechatinc.com|
 @@|www.voidtools.com|
 @@|voidtools.com|
+@@||googletagmanager.com
+@@||megacloud.club
 #
 #Custom blocking Section
 #
