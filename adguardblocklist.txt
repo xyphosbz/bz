@@ -67,8 +67,7 @@
 ||reyes.bz^$dnsrewrite=NOERROR;A;192.168.7.5
 #
 #Section used for 501789.xyz domains
-||uptime.501789.xyz^$dnsrewrite=NOERROR;CNAME;shares.501789.xyz
-||speed.501789.xyz^$dnsrewrite=NOERROR;CNAME;shares.501789.xyz
+
 #
 #Section used for hostbelize domains
 #
